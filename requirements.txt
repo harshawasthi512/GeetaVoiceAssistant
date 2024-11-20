@@ -1,0 +1,6 @@
+google-generativeai
+gTTS==2.3.2
+playsound==1.2.2
+SpeechRecognition==3.8.1
+pydub==0.25.1
+ffmpeg-python==0.2.0
